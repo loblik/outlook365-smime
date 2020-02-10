@@ -1,0 +1,9 @@
+{
+  "name": "com.microsoft.outlook.smime.chromenativeapp",
+  "description": "o365 smime",
+  "path": "/tmp/test.sh",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://baoamhlbolklcoocgmacllojokfnjhcm/"
+  ]
+}
